@@ -1,0 +1,32 @@
+1. 74% DB/Wrecking ball-Miley cyrus.mid
+2. 38% DB/Perfect-Ed Sheeran.mid
+3. 38% DB/Adele - Rolling In The Deep.mid
+4. 35% DB/Counting stars-One Republic.mid
+5. 35% DB/Can't stop the feeling-Justin Timberlake.mid
+6. 35% DB/Born this way-Lady Gaga.mid
+7. 29% DB/Take me to church-Hozier.mid
+8. 29% DB/Stay-Rihanna.mid
+9. 29% DB/Stan-Eminem.mid
+10. 29% DB/Somebody that I used to know-GOYTE.mid
+11. 29% DB/Senorita-Camilla Cabello.mid
+12. 29% DB/Old town roads-LilNasX.mid
+13. 29% DB/I knew you were trouble-Taylor Swift.mid
+14. 29% DB/Get lucky (feat. Pharrell Williams)-Daft Punk.mid
+15. 29% DB/Despacito-Luis Fonsi.mid
+16. 29% DB/Blank space-Taylor Swift.mid
+17. 25% DB/Wake me up-Aviici.mid
+18. 25% DB/Video games-Lana Del Rey.mid
+19. 25% DB/Royals-Lorde.mid
+20. 25% DB/Roar-Katy Perry.mid
+21. 25% DB/Not afraid-Eminem.mid
+22. 25% DB/Hello-Adele.mid
+23. 25% DB/Happy-Pharrell Williams.mid
+24. 25% DB/Blinding lights-The Weeknd.mid
+25. 22% DB/Uptown Funk-Bruno Mars.mid
+26. 22% DB/Stay with me-Sam Smith.mid
+27. 22% DB/Shape of you-Ed Sheeran.mid
+28. 22% DB/All about that bass-Meghan Trainor.mid
+29. 19% DB/Gangnam style-PSY.mid
+30. 19% DB/Closer-The Chainsmokers.mid
+
+time = 180

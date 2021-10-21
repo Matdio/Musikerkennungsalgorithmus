@@ -1,0 +1,32 @@
+1. 92% DB/Wake me up-Aviici.mid
+2. 51% DB/Somebody that I used to know-GOYTE.mid
+3. 48% DB/Stay-Rihanna.mid
+4. 48% DB/Shape of you-Ed Sheeran.mid
+5. 48% DB/Old town roads-LilNasX.mid
+6. 48% DB/Happy-Pharrell Williams.mid
+7. 48% DB/Despacito-Luis Fonsi.mid
+8. 48% DB/Adele - Rolling In The Deep.mid
+9. 44% DB/Take me to church-Hozier.mid
+10. 44% DB/I knew you were trouble-Taylor Swift.mid
+11. 44% DB/Hello-Adele.mid
+12. 44% DB/Counting stars-One Republic.mid
+13. 44% DB/Can't stop the feeling-Justin Timberlake.mid
+14. 40% DB/Video games-Lana Del Rey.mid
+15. 40% DB/Stan-Eminem.mid
+16. 40% DB/Senorita-Camilla Cabello.mid
+17. 40% DB/Royals-Lorde.mid
+18. 40% DB/Roar-Katy Perry.mid
+19. 40% DB/Perfect-Ed Sheeran.mid
+20. 40% DB/Get lucky (feat. Pharrell Williams)-Daft Punk.mid
+21. 37% DB/Wrecking ball-Miley cyrus.mid
+22. 37% DB/Uptown Funk-Bruno Mars.mid
+23. 37% DB/Stay with me-Sam Smith.mid
+24. 37% DB/Closer-The Chainsmokers.mid
+25. 37% DB/Born this way-Lady Gaga.mid
+26. 37% DB/Blinding lights-The Weeknd.mid
+27. 37% DB/Blank space-Taylor Swift.mid
+28. 37% DB/All about that bass-Meghan Trainor.mid
+29. 29% DB/Not afraid-Eminem.mid
+30. 29% DB/Gangnam style-PSY.mid
+
+time = 112 sec
