@@ -1,0 +1,32 @@
+1. 80% DB/Hello-Adele.mid
+2. 65% DB/Shape of you-Ed Sheeran.mid
+3. 65% DB/Perfect-Ed Sheeran.mid
+4. 60% DB/Uptown Funk-Bruno Mars.mid
+5. 60% DB/Stay with me-Sam Smith.mid
+6. 60% DB/Royals-Lorde.mid
+7. 60% DB/Old town roads-LilNasX.mid
+8. 60% DB/I knew you were trouble-Taylor Swift.mid
+9. 60% DB/Get lucky (feat. Pharrell Williams)-Daft Punk.mid
+10. 60% DB/Counting stars-One Republic.mid
+11. 55% DB/Video games-Lana Del Rey.mid
+12. 55% DB/Stay-Rihanna.mid
+13. 55% DB/Somebody that I used to know-GOYTE.mid
+14. 55% DB/Happy-Pharrell Williams.mid
+15. 55% DB/Despacito-Luis Fonsi.mid
+16. 55% DB/Closer-The Chainsmokers.mid
+17. 55% DB/Can't stop the feeling-Justin Timberlake.mid
+18. 55% DB/Blank space-Taylor Swift.mid
+19. 55% DB/All about that bass-Meghan Trainor.mid
+20. 55% DB/Adele - Rolling In The Deep.mid
+21. 50% DB/Wrecking ball-Miley cyrus.mid
+22. 50% DB/Wake me up-Aviici.mid
+23. 50% DB/Take me to church-Hozier.mid
+24. 50% DB/Roar-Katy Perry.mid
+25. 50% DB/Not afraid-Eminem.mid
+26. 50% DB/Gangnam style-PSY.mid
+27. 50% DB/Born this way-Lady Gaga.mid
+28. 44% DB/Stan-Eminem.mid
+29. 44% DB/Senorita-Camilla Cabello.mid
+30. 44% DB/Blinding lights-The Weeknd.mid
+
+test = 70 sec
